@@ -1,2 +1,2 @@
 # auth-ts-client
-Angular TypeScript Authorization Client
+Angular TypeScript Authenticaton and Authorization Client
